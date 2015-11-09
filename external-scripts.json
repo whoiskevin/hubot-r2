@@ -8,5 +8,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-google-hangouts",
-  "hubot-darksky"
+  "hubot-darksky",
+  "hubot-hackernews"
 ]
